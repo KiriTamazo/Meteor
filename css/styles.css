@@ -105,7 +105,7 @@ body.dark-theme {
     font-size: 1.5rem;
 }
 .arrow:hover{
-    color:var(--font-color);
+    color:var(--text-color);
 }
 .down-arrow {
     position: absolute;
