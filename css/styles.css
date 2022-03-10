@@ -462,6 +462,7 @@ body.dark-theme {
     background: var(--primary-color);
     position: relative;
     overflow: visible;
+    border-radius: .2rem 0 0 .2rem;
 }
 
 .progress-bar span {
@@ -588,6 +589,7 @@ body.dark-theme {
 }
 
 .tab-content {
+    height: 92%;
     background: var(--background-color);
     padding: 2rem;
     margin-bottom: 2rem;
